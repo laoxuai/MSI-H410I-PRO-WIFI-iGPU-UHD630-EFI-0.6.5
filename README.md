@@ -20,7 +20,7 @@ macOS：macOS Big Sur 11.1 20C69
 | 以太网卡（Ethernet card） | Intel Ethernet Connection 1219V / 微星 |
 | Wifi & Bluetooth          | Intel Dual Band Wireless-AC 3168 |
 
-> 网卡、 WIFI 和蓝牙为主板自带。
+> 网卡、 WIFI 和蓝牙为主板自带，正常驱动有线、无线网络和蓝牙。无法隔空投送、随航。
 
 ## BIOS设置（BIOS Settings）
 
